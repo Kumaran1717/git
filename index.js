@@ -1,5 +1,5 @@
-console.log("git")
+console.log("git play")
 
 for(var i = 0;i<5;i++){
-    console.log(" code new bug")
+    console.log("main")
 }
